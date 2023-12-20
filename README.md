@@ -347,5 +347,6 @@ function pow(x, n) {
 }
 
    ### ВЫВОД
+   ![screen](https://github.com/Ekvilan/curs2lab5/blob/main/18329.jpg)
   научился делать телеграм бота и многие задания
 
